@@ -101,7 +101,6 @@ function UptimeRobot({ apikey }) {
           <span className='name' dangerouslySetInnerHTML={{ __html: site.name }} />
           {ShowLink && (
             <>
-              <Link to={site.url} text="Link" className='link' />
               <span
                 className='ssl-info'
                 data-tip={
