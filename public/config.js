@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'wwqq网络空间监控',
+  SiteName: '寒舍网络空间监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -25,7 +25,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://wwqq.us.kg'
+      url: 'https://wwwq.us.kg'
     },
     {
       text: 'Github',
