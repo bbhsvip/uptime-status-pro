@@ -1,12 +1,12 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'MJJ网站监控',
+  SiteName: 'wwqq网络空间监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'ur2828404-32ec189c0d47d45b7f0a207a',
+    'ur2848432-31a285b48d16eb00e84e37ad',
   ],
 
   // 日志天数
@@ -25,11 +25,11 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://www.xh.sd'
+      url: 'https://wwqq.us.kg'
     },
     {
       text: 'Github',
-      url: 'https://github.com/caogens/uptime-status-pro'
+      url: 'https://github.com/bbhssvip/uptime-status-pro'
     },
   ],
 };
